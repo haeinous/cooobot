@@ -40,22 +40,3 @@ try:
   stream(['@cooobot'])
 except:
   print("Failure")
-
-def add(x, y):
-  return x + y
-
-z = add(2, 3)
-
-def add_only_positive_integers(x, y):
-  if x < 0 or y < 0:
-     return
-     dfdf
-  else:
-    return x + y
-
-
-def print_coo():
-  print("coo")
-  return
-
-
