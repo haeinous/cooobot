@@ -1,5 +1,7 @@
 *.pyc
 credentials.py
+secrets.sh
+/venv
 
 # Created by https://www.gitignore.io/api/macos
 
